@@ -1,0 +1,3 @@
+SpotifyRadioIntent play {BandName} radio
+SpotifyRadioIntent play songs based on {BandName}
+SpotifyRadioIntent play something like {BandName}

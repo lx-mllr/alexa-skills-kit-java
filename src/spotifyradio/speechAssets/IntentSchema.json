@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "SpotifyRadioIntent",
+      "slots":[
+            {
+                "name":"BandName",
+                "type":"AMAZON.MusicGroup"
+            }
+            ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

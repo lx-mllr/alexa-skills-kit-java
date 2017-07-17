@@ -1,0 +1,2 @@
+arn:aws:lambda:us-east-1:525951437507:function:Spotify-Radio-Skill
+spotifyradio.SpotifyRadioSpeechletRequestStreamHandler
